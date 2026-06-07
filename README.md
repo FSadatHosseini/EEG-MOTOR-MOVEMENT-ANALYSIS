@@ -10,7 +10,7 @@ This project compares brain activity between two resting-state conditions — ey
 
 **Subject:** S003 | **Conditions:** Eyes Open (R01) & Eyes Closed (R02)
 
-![Pipeline Overview](C:\Users\Pentium\Desktop\EEG_Project\docs)
+![Pipeline Overview](\EEG_Project\docs)
 
 ---
 
