@@ -1,6 +1,6 @@
 # EEG Signal Processing & Analysis
 
-A complete EEG signal processing and analysis pipeline applied to resting-state data from the **PhysioNet EEG Motor Movement/Imagery Dataset**, implemented in both **MATLAB/EEGLAB** and **Python/MNE-Python**.
+A complete EEG signal processing and analysis pipeline applied to resting-state data from the **PhysioNet EEG Motor Movement/Imagery Dataset**,  implemented in both **MATLAB/EEGLAB** and **Python/MNE-Python**.
 
 ---
 
