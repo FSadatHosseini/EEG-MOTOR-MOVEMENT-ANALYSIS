@@ -6,7 +6,8 @@ A complete EEG signal processing and analysis pipeline applied to resting-state 
 
 ## Overview
 
-This project compares brain activity between two resting-state conditions — eyes open and eyes closed — demonstrating the well-known **alpha synchronization** phenomenon (~10 Hz) using a full reproducible EEG pipeline.
+This project compares brain activity between two resting-state conditions, eyes open and eyes closed, demonstrating the well-known **alpha synchronization** phenomenon (~10 Hz) using a full reproducible EEG pipeline.
+
 
 **Subject:** S003 | **Conditions:** Eyes Open (R01) & Eyes Closed (R02)
 
